@@ -1,2 +1,4 @@
 # Write your code here.
-def con
+def conference_badges
+  
+end
